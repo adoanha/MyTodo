@@ -9,4 +9,3 @@ A simple todo list that runs locally on your machine. You can add, mark off, and
 - Use Effect
 - Save to Local Storage
 
-Thank you to Dev Ed's Youtube channel! I borrowed his CSS styling from https://github.com/developedbyed/vanilla-todo/blob/master/style.css
